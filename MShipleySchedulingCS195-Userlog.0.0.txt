@@ -1,0 +1,456 @@
+Aug 05, 2021 9:09:14 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:09:30 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:09:30 AM controllers.LoginPageController callLogin
+INFO: test logged in
+Aug 05, 2021 9:09:32 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:09:39 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:10:32 AM controllers.AppointmentAddPageController handleSave
+INFO: New Appointment Saved Checking In
+Aug 05, 2021 9:10:32 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:12:21 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:12:23 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:12:39 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:12:45 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:12:45 AM controllers.LoginPageController callLogin
+INFO: admin logged in
+Aug 05, 2021 9:12:49 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:12:53 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:13:27 AM controllers.AppointmentAddPageController handleSave
+INFO: New Appointment Saved new appointmnet
+Aug 05, 2021 9:13:27 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:17:45 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:17:47 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:17:48 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:18:00 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:18:07 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:20:45 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:20:55 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Aug 05, 2021 9:20:58 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 03, 2021 10:56:41 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 03, 2021 10:56:53 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 03, 2021 10:56:53 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 03, 2021 10:56:56 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 03, 2021 10:57:07 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 03, 2021 10:57:10 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 03, 2021 10:57:11 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 03, 2021 10:57:16 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 03, 2021 10:57:19 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 9:53:36 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 9:53:46 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 9:53:46 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 08, 2021 9:53:50 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 9:54:03 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 9:54:08 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 9:54:15 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 9:54:18 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 9:56:27 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:12:52 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:12:59 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:12:59 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 08, 2021 10:13:02 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:13:16 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:13:32 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:13:35 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:13:37 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:13:46 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:13:48 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:14:05 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:14:08 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:14:38 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:14:45 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:14:46 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 08, 2021 10:14:50 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:14:54 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:15:47 PM controllers.AppointmentAddPageController handleSave
+INFO: New Appointment Saved new meeting today
+Sep 08, 2021 10:15:47 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:15:56 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:15:59 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:16:03 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:16:05 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:16:11 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:16:13 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:43:47 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:43:56 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:43:56 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 08, 2021 10:44:46 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:44:52 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:46:21 PM controllers.AppointmentAddPageController handleSave
+INFO: New Appointment Saved what is it
+Sep 08, 2021 10:46:21 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:50:18 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:50:39 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:50:43 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:50:46 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:06 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:13 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:13 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 08, 2021 10:58:16 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:21 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:25 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:27 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:33 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:40 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 10:58:56 PM controllers.AppointmentEditPageController handleSave
+INFO: Appointment Updated App 1
+Sep 08, 2021 10:58:56 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:00:19 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:00:21 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:00:30 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:00:38 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:00:40 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:01:07 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:01:15 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:01:15 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Sep 08, 2021 11:01:18 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:01:30 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:01:33 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:02:23 PM controllers.AddCustomerPageController handleSaveCustomer
+INFO: New Cusomter Saved Ralph McQueen
+Sep 08, 2021 11:02:23 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:02:28 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:02:30 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:02:39 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:02:41 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:27:36 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:28:36 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:28:36 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 08, 2021 11:28:43 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:28:53 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:29:00 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:29:12 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:29:15 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:29:17 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:29:28 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 08, 2021 11:29:34 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:51:15 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:51:24 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:51:24 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Sep 09, 2021 9:51:35 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:51:42 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:51:42 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 09, 2021 9:51:48 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:51:53 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:51:53 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Sep 09, 2021 9:52:04 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:52:11 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:52:24 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:53:05 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:53:07 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:53:09 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 9:53:12 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:03:33 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:03:46 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:03:47 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Sep 09, 2021 10:03:55 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:04:07 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:04:07 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 09, 2021 10:04:25 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:10:23 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:12:32 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:12:34 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Sep 09, 2021 10:13:10 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:13:27 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:14:06 PM controllers.AppointmentAddPageController handleSave
+INFO: New Appointment Saved testing
+Sep 09, 2021 10:14:06 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:14:10 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:14:20 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:14:22 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:14:24 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:14:33 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:14:36 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:16:00 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:16:02 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 09, 2021 10:16:15 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:20:48 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:20:48 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Sep 09, 2021 10:21:00 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:21:04 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:21:07 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:38:34 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:38:49 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:38:49 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Sep 09, 2021 10:39:40 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:39:42 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:39:48 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:40:17 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:40:17 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Sep 09, 2021 10:40:21 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:40:36 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:40:38 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:49:41 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:49:56 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:49:56 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Sep 09, 2021 10:49:58 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:50:09 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:50:20 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:50:22 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:50:24 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:50:25 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:51:24 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Sep 09, 2021 10:51:27 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:46:15 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:46:28 PM controllers.LoginPageController callLogin
+INFO: test access denied!
+Nov 07, 2021 9:46:39 PM controllers.LoginPageController callLogin
+INFO: test access denied!
+Nov 07, 2021 9:50:37 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:50:45 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:50:46 PM controllers.LoginPageController callLogin
+INFO: test logged in
+Nov 07, 2021 9:50:49 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:50:57 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:51:42 PM controllers.AppointmentAddPageController handleSave
+INFO: New Appointment Saved First One!
+Nov 07, 2021 9:51:42 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:51:59 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:52:01 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:52:46 PM controllers.AddCustomerPageController handleSaveCustomer
+INFO: New Cusomter Saved Bob Buddy
+Nov 07, 2021 9:52:46 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:52:53 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:52:55 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:19 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:21 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:23 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:30 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:37 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:37 PM controllers.LoginPageController callLogin
+INFO: admin logged in
+Nov 07, 2021 9:53:40 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:43 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:45 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:53:57 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:54:09 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 07, 2021 9:54:14 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:40:59 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:41:08 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:41:08 AM controllers.LoginPageController callLogin
+INFO: test logged in
+Nov 08, 2021 12:41:15 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:41:19 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:41:56 AM controllers.AppointmentAddPageController handleSave
+INFO: New Appointment Saved after the git
+Nov 08, 2021 12:41:56 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:42:10 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:42:21 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:42:29 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:42:32 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:42:35 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:42:59 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:43:35 AM controllers.AppointmentEditPageController handleSave
+INFO: Appointment Updated First One!
+Nov 08, 2021 12:43:35 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:43:40 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2
+Nov 08, 2021 12:43:42 AM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 15.0.1 by JavaFX runtime of version 11.0.2

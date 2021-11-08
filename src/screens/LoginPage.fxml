@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="401.0" prefWidth="370.0" style="-fx-background-color: #B56A7C;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.LoginPageController">
+   <children>
+      <Label fx:id="lcltimezoneLbl" alignment="CENTER" layoutX="112.0" layoutY="57.0" prefHeight="17.0" prefWidth="149.0">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font></Label>
+      <Text fx:id="titleTxt" fontSmoothingType="LCD" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="A Global Consulting Org Schedular C195" textAlignment="CENTER" wrappingWidth="370.00000235438347">
+         <font>
+            <Font name="Curlz MT" size="20.0" />
+         </font>
+      </Text>
+        <ImageView fitWidth="50" preserveRatio="true" smooth="true">
+        <image>
+          
+        </image>
+      </ImageView>
+      <HBox alignment="TOP_RIGHT" layoutX="39.0" layoutY="216.0" prefHeight="45.0" prefWidth="268.0">
+         <children>
+            <Text fx:id="usernameLbl" strokeType="OUTSIDE" strokeWidth="0.0" text="Username:  " textAlignment="RIGHT" wrappingWidth="102.892578125" />
+            <TextField fx:id="usernamefld" />
+         </children>
+      </HBox>
+      <HBox alignment="TOP_RIGHT" layoutX="65.0" layoutY="248.0" prefHeight="45.0" prefWidth="242.0">
+         <children>
+            <Text fx:id="passwordLbl" strokeType="OUTSIDE" strokeWidth="0.0" text="Password:  " textAlignment="RIGHT" wrappingWidth="81.126953125" />
+            <PasswordField fx:id="passwordfld" prefHeight="25.0" prefWidth="150.0" />
+         </children>
+      </HBox>
+      <ImageView fitHeight="117.0" fitWidth="109.0" layoutX="131.0" layoutY="90.0">
+         <image>
+            <Image url="@daily-schedule-free-clipart.jpg" />
+         </image>
+      </ImageView>
+      <Label fx:id="errorMessage" layoutX="51.0" layoutY="293.0" prefHeight="35.0" prefWidth="268.0" style="-fx-font-size: 11; -fx-font-weight: bolder;" />
+      <ButtonBar layoutX="83.0" layoutY="344.0" prefHeight="27.0" prefWidth="85.0">
+        <buttons>
+          <Button fx:id="loginBtn" minWidth="75.0" mnemonicParsing="false" onAction="#callLogin" text="Login" />
+          <Button fx:id="quitBtn" cancelButton="true" mnemonicParsing="false" onAction="#callQuit" text="Quit" />
+        </buttons>
+      </ButtonBar>
+   </children>
+</AnchorPane>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane id="AnchorPane" prefHeight="461.0" prefWidth="964.0" style="-fx-background-color: #7FFF00;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.AppointmentPageController">
+   <children>
+      <TableView fx:id="apptTableView" layoutX="14.0" layoutY="77.0" prefHeight="271.0" prefWidth="937.0">
+        <columns>
+            <TableColumn fx:id="idApptClmn" prefWidth="93.0" text="Appointment" />
+            <TableColumn fx:id="titleApptClmn" minWidth="20.0" prefWidth="95.0" text="Title" />
+            <TableColumn fx:id="descApptClmn" prefWidth="105.0" text="Description" />
+            <TableColumn fx:id="locApptClmn" prefWidth="95.0" text="Location" />
+            <TableColumn fx:id="consultantApptClmn" minWidth="20.0" prefWidth="95.0" text="Consultant" />
+            <TableColumn fx:id="typeApptClmn" minWidth="20.0" prefWidth="95.0" text="Type" />
+          <TableColumn fx:id="startApptClmn" minWidth="20.0" prefWidth="115.0" text="Start" />
+          <TableColumn fx:id="endApptClmn" minWidth="20.0" prefWidth="115.0" text="End" />
+            <TableColumn fx:id="customerApptClmn" minWidth="20.0" prefWidth="127.0" text="Customer" />
+        </columns>
+      </TableView>
+      <ButtonBar layoutX="586.0" layoutY="23.0" prefHeight="40.0" prefWidth="261.0">
+        <buttons>
+          <Button mnemonicParsing="false" onAction="#handleNewAppt" text="New" />
+            <Button mnemonicParsing="false" onAction="#handleEditAppt" text="Edit" />
+            <Button mnemonicParsing="false" onAction="#handleDeleteAppt" text="Delete" />
+        </buttons>
+         <padding>
+            <Insets right="6.0" />
+         </padding>
+      </ButtonBar>
+      <RadioButton fx:id="weekRadioBtn" layoutX="32.0" layoutY="23.0" mnemonicParsing="false" onAction="#handleApptWeek" text="Appointments for Upcoming Week">
+         <toggleGroup>
+            <ToggleGroup fx:id="apptToggleGrp" />
+         </toggleGroup></RadioButton>
+      <RadioButton fx:id="monthRadioBtn" layoutX="32.0" layoutY="43.0" mnemonicParsing="false" onAction="#handleApptMonth" text="Appointments for Upcoming Month" toggleGroup="$apptToggleGrp" />
+      <HBox alignment="CENTER" layoutX="209.0" layoutY="359.0" prefHeight="50.0" prefWidth="523.0" spacing="15.0">
+         <children>
+            <Button maxWidth="105.0" minWidth="105.0" mnemonicParsing="false" onAction="#onActionCallCust" text="Customers" />
+            <Button maxWidth="105.0" minWidth="105.0" mnemonicParsing="false" onAction="#onActionCallReports" text="Reports" />
+            <Button minWidth="105.0" mnemonicParsing="false" onAction="#onActionReturnMenu" text="Return to Welcome" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
